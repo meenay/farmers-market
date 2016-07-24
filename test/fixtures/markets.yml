@@ -1,0 +1,53 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  FMID: 1
+  name: MyString
+  website: MyString
+  facebook: MyString
+  twitter: MyString
+  youtube: MyString
+  other_media: MyString
+  street: MyString
+  city: MyString
+  county: MyString
+  state: MyString
+  zip: MyString
+  date1: MyString
+  time1: MyString
+  date2: MyString
+  time2: MyString
+  date3: MyString
+  time3: MyString
+  date4: MyString
+  time4: MyString
+  long: MyString
+  lat: MyString
+  location: MyString
+  credit: MyString
+
+two:
+  FMID: 1
+  name: MyString
+  website: MyString
+  facebook: MyString
+  twitter: MyString
+  youtube: MyString
+  other_media: MyString
+  street: MyString
+  city: MyString
+  county: MyString
+  state: MyString
+  zip: MyString
+  date1: MyString
+  time1: MyString
+  date2: MyString
+  time2: MyString
+  date3: MyString
+  time3: MyString
+  date4: MyString
+  time4: MyString
+  long: MyString
+  lat: MyString
+  location: MyString
+  credit: MyString
