@@ -1,0 +1,2 @@
+class SearchByZipController < ApplicationController
+end
