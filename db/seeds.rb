@@ -6,7 +6,7 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-
+# The script below is to create the table Market from market.csv.
 File.open('db/market.csv').each do |row|
 	fields=row.split(',')
 	if (fields[23].downcase	==	'y')
