@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
   get 'search_by_zip' => 'search_by_zip#index'
+  get 'search_by_city_state' => 'search_by_city_state#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
